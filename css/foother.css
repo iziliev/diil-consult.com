@@ -1,0 +1,83 @@
+#page-footer {
+    width: 100%;
+    padding: 45px 0;
+    background-color: #162b40;
+}
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+ul, li {
+    list-style: none;
+	text-align:left
+}
+p, ul, ol {
+    margin: 0;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding: 0;
+}
+ol, ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+#page-footer .footer-list-wrapper > h3 {
+    margin-top: 0;
+}
+#page-footer .list-title {
+    margin-bottom: 16px;
+    font-family: "LatoBlack","Arial","Helvetica",sans-serif;
+    font-size: 13px;
+    color: #ffa000;
+    text-transform: uppercase;
+    text-align: left;
+}
+.text-uppercase {
+    text-transform: uppercase;
+}
+h3 {
+    font-family: "LatoBlack","Arial","Helvetica",sans-serif;
+}
+.h3, h3 {
+    font-size: 24px;
+    text-align: center;
+}
+.h1, .h2, .h3, h1, h2, h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+#page-footer .all-rights-reserved p {
+    margin-bottom: 6px;
+    font-size: 13px;
+    color: #fff;
+    opacity: .5;
+    padding-top: 5px;
+	text-align: center;
+}
+#page-footer .footer-list li a {
+    font-size: 14px;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,57 @@
+.rst-main-page {
+	background-color:#f7f7f7;
+	background-position: top left;
+}
+body {
+	font-family:Open Sans;
+	font-size:14px;
+	font-weight:400;
+}
+h1 {
+	font-size:45px;
+	font-weight:400;
+	line-height:58px;
+}
+h2 {
+	font-size:30px;
+	font-weight:600;
+	line-height:36px;
+}
+h3 {
+	font-size:20px;
+	font-weight:600;
+	line-height:24px;
+}
+h4 {
+	font-size:18px;
+	font-weight:600;
+	line-height:20px;
+}
+h5 {
+	font-size:16px;
+	font-weight:600;
+	line-height:18px;
+}
+h6 {
+	font-size:14px;
+	font-weight:600;
+	line-height:16px;
+}
+#rst-header .rst-blog-banner {
+	background-color:#ffffff;
+	background-position: top left;
+}
+.rst-footer {
+	background-color:#203d5a;
+	
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+}
+#rst-404-page {
+	background-color:#ffffff;
+	background-position: top left;
+}
+#rst-coming-page {
+	background-color:#ffffff;
+}

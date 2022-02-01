@@ -1,0 +1,19 @@
+#jm-top-bar {
+    background: #fff;
+    border-bottom: 1px solid #e7e7e7;
+    margin-bottom: 30px;
+    color: #898989;
+    font-size: 13px;
+    line-height: 18px;
+    font-weight: 300;
+    height: 50px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+section {
+    display: block;
+}

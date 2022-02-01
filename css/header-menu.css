@@ -1,0 +1,17 @@
+#headertext-menu{
+	background:url('../images/headertext_bg.jpg') no-repeat;
+	position: absolute;
+	right:0px;
+	top:140px;
+	width:334px;
+	height:80px;
+	z-index:20;
+}
+#headertext-menu h1 {
+    color: #858688;
+    padding: 5px;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: normal;
+	text-align:center;
+}
